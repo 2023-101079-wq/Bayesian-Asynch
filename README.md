@@ -1,1 +1,1 @@
-# Bayesian-Asynch
+# Bayesian-Activities
